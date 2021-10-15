@@ -1,0 +1,30 @@
+#Area
+{
+  display: inline-block;    
+  position: static; 
+  text-align: center;
+  border-radius: 50px;   
+  width: 250px;
+  height: 50px;  
+  border-color: rgb(255, 255, 255); 
+  background-color: rgb(24, 21, 21);
+}
+
+#Button
+{
+  position: relative;
+  text-align: center;  
+  border-radius: 50px; 
+  width: 50px;    
+  height: 50px;
+  color: rgb(63, 58, 63);  
+  border-color: rgb(255, 255, 255); 
+  background-color: rgb(24, 21, 21);  
+}
+
+.Link
+{
+  text-align: center;
+  text-decoration: none;
+  color: white;
+}

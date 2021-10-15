@@ -1,0 +1,52 @@
+html
+{
+  background: rgb(231, 230, 230);
+  padding:0; 
+  margin:0;
+  height:100%;
+}
+
+body 
+{
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  background: rgb(24, 21, 21);
+  color: white;
+  height: 1920;
+  width: 1080;
+  text-align: center;
+  height: 100%;
+  position: absolute;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+}
+
+h1
+{
+  text-align: center;
+  font-size: 70px;
+}
+
+#header
+{
+  color: white;
+  background: rgb(21, 11, 24);  
+  padding: 10px;
+  padding-right: 15px;  
+}
+
+#footer
+{
+  color: white;
+  background: rgb(21, 11, 24);  
+  padding: 10px;
+  padding-right: 15px;  
+  text-align: -webkit-right;
+  position: absolute; 
+  bottom: 0; 
+  left: 0; 
+  right: 0;
+}
