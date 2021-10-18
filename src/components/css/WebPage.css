@@ -1,3 +1,13 @@
+.Entry 
+{
+  display: inline-block;
+  position: relative;
+  background: black;
+  border-radius: 10px;  
+  color: white;
+  height: 100%;  
+  width: 40%;
+}
 #Area
 {
   display: inline-block;    
@@ -27,4 +37,22 @@
   text-align: center;
   text-decoration: none;
   color: white;
+}
+
+#DataEntry
+{
+  position: relative;
+  text-align: -webkit-center;  
+}
+
+.form-group
+{
+  width: 300px;
+  height: 100px;  
+}
+
+.form-check
+{  
+  width: 300px;
+  height: 50px;  
 }

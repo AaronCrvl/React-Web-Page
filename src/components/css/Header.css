@@ -1,14 +1,37 @@
 #Header
 {  
-    text-align: right;      
+    display: inline-flex;    
 }
 
-.Table
+.dropdown
 {
-    padding-left: 540px;
+    text-align: center;    
+    position: relative;    
+    background: rgb(10, 40, 59); 
+    padding: 10px;
 }
 
-th
+.dropdown-item
 {
-    padding: 15px;
+    color: whitesmoke;
+    background-color:black;
+}
+
+button:not(:disabled) {
+    color: white;
+    cursor: pointer;
+    background:rgb(10, 40, 59);
+    border: none;
+    display: -webkit-box;
+}
+#GitHubSlides
+{
+    background: linear-gradient(right, rgb(10, 40, 59), rgb(27, 141, 212)); 
+}
+
+.btn-extra
+{    
+    display: inline-grid;
+    position: relative;
+    text-align: left;
 }

@@ -1,6 +1,9 @@
-th
+a
 {
-    padding: 10px;
+    padding-right: 50px;
+}
+th
+{    
     position: relative;    
     bottom: 100%;    
     overflow: hidden;
